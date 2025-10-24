@@ -25,6 +25,6 @@ git clone https://github.com/Oceandevs17671/RenderlyLib.git
 
 Open the solution in Visual Studio 2022 (or later).
 
-Install OpenTK via NuGet:
+Run Install.bat OR Install OpenTK via NuGet
 
 Build and run the project.
